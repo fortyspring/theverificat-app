@@ -1,0 +1,4 @@
+# The Verificat App  Official product showcase maintained by **Mohamad Kassem**.  ## Overview  Official product showcase for The Verificat Android application.  ## Technology  Android â€¢ WordPress â€¢ API integrations  ## Key Features  - Agency content access
+- Digital publishing services
+- Mobile-first interface
+- Production release workflow  ## Status  Production / Active Development  ## Official Website  https://theverificat.com/  ## Source Code  **Proprietary software. Source code is not publicly distributed.**  This repository contains product information and documentation only. It does not contain commercial source code, APK files, ZIP packages, credentials, private APIs, or deployment secrets.  Â© 2026 Mohamad Kassem / The Verificat Agency. All rights reserved.
