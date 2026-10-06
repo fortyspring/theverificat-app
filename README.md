@@ -1,11 +1,10 @@
 # The Verificat App
 
-![Official application catalogue](assets/theverificat-apps.png)
+![The Verificat official app catalogue](assets/theverificat-apps.png)
 
-Official product showcase for **The Verificat Console**.
+Official showcase for **The Verificat Console**.
 
-## Verified Build Catalogue
-
+## Official catalogue
 https://theverificat.com/apps/
 
 - Package: `com.theverificat.app`
@@ -13,16 +12,14 @@ https://theverificat.com/apps/
 - Version code listed: `24`
 - Target SDK listed: `36`
 
-## Product Focus
-
+## Product focus
 - Mobile publishing console
 - Multi-site newsroom workflow
 - Publishing queue visibility
 - Mobile editor operations
 - Secure publishing-system integration
 
-## Source Code
-
-Proprietary. Public repository contains showcase material and documentation only.
+## Source code
+Proprietary. This repository contains showcase material and documentation only.
 
 Â© 2026 Mohamad Kassem / The Verificat Agency. All rights reserved.
